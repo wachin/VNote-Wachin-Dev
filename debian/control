@@ -1,0 +1,19 @@
+Source: vnote
+Section: editors
+Priority: extra
+Maintainer: Washington Indacochea Delgado <wachin.id@gmail.com>
+Homepage: https://github.com/vnotex/vnote/
+
+Package: vnote
+Architecture: i386
+Depends: ${shlibs:Depends}
+Description: VNote is a Vim-inspired Note-taking application, 
+ designed specially for Markdown.
+ It is not yet just another Markdown editor. VNote is designed 
+ to be a powerful Markdown editor with sweet note management, 
+ or a note-taking application with pleasant Markdown experience.
+ Now VNote is intended to be a pleasant note-taking platform, 
+ supporting more document types in the future.
+ VNote is free and open source. You could get VNote for Linux, 
+ Windows, and macOS.
+ .
