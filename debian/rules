@@ -23,6 +23,15 @@ override_dh_auto_install:
 # If you need to move files around in debian/$(PACKAGE) or do some
 # binary patching, do it here
 #
+# Este archvio ha sido modificado por Washington Indacochea wachin.id@gmail.com
+# para poder usar este método que usa Alien para empaquedar muchos archivos 
+# rpm a debian, en el cual crea un archivo rules generico 
+# para toda clase de programas
+
+# This file has been modified by Washington Indacochea wachin.id@gmail.com 
+# in order to use this method that Alien uses to pack many rpm files
+# into debian, in which it creates a generic rules 
+# file for all kinds of programs
 
 override_dh_strip:
 # This has been known to break on some wacky binaries.
