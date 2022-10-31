@@ -7,7 +7,8 @@ Homepage: https://github.com/vnotex/vnote/
 Package: vnote
 Architecture: i386
 Depends: ${shlibs:Depends}
-Description: VNote is a Vim-inspired Note-taking application, 
+Description: note-taking application that knows programmers and markdown better
+ VNote is a Vim-inspired Note-taking application, 
  designed specially for Markdown.
  It is not yet just another Markdown editor. VNote is designed 
  to be a powerful Markdown editor with sweet note management, 
