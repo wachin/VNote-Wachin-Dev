@@ -5,9 +5,9 @@ Maintainer: Washington Indacochea Delgado <wachin.id@gmail.com>
 Homepage: https://github.com/vnotex/vnote/
 
 Package: vnote
-Architecture: i386
+Architecture: any
 Depends: ${shlibs:Depends}
-Description: note-taking application that knows programmers and markdown better
+Description: Note-taking application that knows programmers and markdown better
  VNote is a Vim-inspired Note-taking application, designed 
  specially for Markdown.
  It is not yet just another Markdown editor. VNote is designed 
@@ -28,7 +28,7 @@ Description: note-taking application that knows programmers and markdown better
   while editing the text. However, two panels may occupy the whole
   screen and users keep moving eyes left and right, 
   which will be a big distraction.
-  *  As another extreme, some editors convert the Markdown elements
+  * As another extreme, some editors convert the Markdown elements
   in place immediately after the typing, which makes editing 
   Markdown just like editing rich text document in Word with 
   some shortcuts. 
