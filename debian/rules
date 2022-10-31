@@ -27,7 +27,7 @@ override_dh_auto_install:
 # Ecuador, 29 de Octubre de 2022
 # Este archvio ha sido modificado por Washington Indacochea wachin.id@gmail.com
 # para poder usar este método que usa Alien para convertir paquetes 
-# rpm a debian, en el cual crea un archivo rules generico 
+# rpm a debian en el cual crea un archivo rules generico 
 # para empaquetar toda clase de programas
 
 # Ecuador, October 29, 2022 
