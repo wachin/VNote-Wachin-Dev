@@ -8,18 +8,16 @@ Package: vnote
 Architecture: i386
 Depends: ${shlibs:Depends}
 Description: note-taking application that knows programmers and markdown better
- VNote is a Vim-inspired Note-taking application, 
- designed specially for Markdown.
+ VNote is a Vim-inspired Note-taking application, designed 
+ specially for Markdown.
  It is not yet just another Markdown editor. VNote is designed 
  to be a powerful Markdown editor with sweet note management, 
  or a note-taking application with pleasant Markdown experience.
- Now VNote is intended to be a pleasant note-taking platform, 
- supporting more document types in the future.
  VNote is free and open source. You could get VNote for Linux, 
  Windows, and macOS.
  .
  Markdown, as a simple mark language, unlike rich text, was born
- with a gap between edit and read. 
+ with a gap between edit and read.
  There are about three ways to handle this gap:
   * As one extreme, some editors just treat Markdown as plain text.
   Users may lose themselves in the messy black characters. 
@@ -47,4 +45,5 @@ Description: note-taking application that knows programmers and markdown better
  WYSIWYG for Markdown via tuned syntax highlights and some other 
  features. By helping to keep track of the content, there is no
  need to preview or alter the text immediately after being typed.
- 
+ Now VNote is intended to be a pleasant note-taking platform, 
+ supporting more document types in the future.
